@@ -29,7 +29,7 @@ const HomePage = () => {
           <div className="space-y-4">
             <h2 className="text-4xl md:text-6xl font-extrabold leading-tight">
               <span className="bg-clip-text text-transparent bg-gradient-to-br from-cyan-400 via-sky-500 to-blue-700">
-                Tailwind está funcionando
+                Primer commit
               </span>{" "}
               <span className="inline-block align-middle">🎉</span>
             </h2>
